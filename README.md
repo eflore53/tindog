@@ -1,2 +1,1 @@
-# tindog
-udemy tindog example
+TinDog Starting Files
